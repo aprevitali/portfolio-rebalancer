@@ -60,7 +60,7 @@ Portfolio Rebalancer is a **free, open-source tool** that helps investors mainta
 
 ```bash
 # Clone the repository
-git clone https://github.com/prev-creator/portfolio-rebalancer.git
+git clone https://github.com/aprevitali/portfolio-rebalancer.git
 cd portfolio-rebalancer
 
 # Install dependencies
@@ -160,8 +160,8 @@ This project is licensed under the GNU Affero General Public License v3.0 (AGPLv
 
 ### 📧 Contact
 
-- **Report Bugs:** [GitHub Issues](https://github.com/prev-creator/portfolio-rebalancer/issues)
-- **GitHub:** [@prev-creator](https://github.com/prev-creator)
+- **Report Bugs:** [GitHub Issues](https://github.com/aprevitali/portfolio-rebalancer/issues)
+- **GitHub:** [@aprevitali](https://github.com/aprevitali)
 
 ### ⭐ Star History
 
@@ -196,7 +196,7 @@ Portfolio Rebalancer è uno **strumento gratuito e open-source** che aiuta gli i
 
 ```bash
 # Clona il repository
-git clone https://github.com/prev-creator/portfolio-rebalancer.git
+git clone https://github.com/aprevitali/portfolio-rebalancer.git
 cd portfolio-rebalancer
 
 # Installa le dipendenze
@@ -259,8 +259,8 @@ Questo progetto è distribuito con licenza GNU Affero General Public License v3.
 
 ### 📧 Contatti
 
-- **Segnala Bug:** [GitHub Issues](https://github.com/prev-creator/portfolio-rebalancer/issues)
-- **GitHub:** [@prev-creator](https://github.com/prev-creator)
+- **Segnala Bug:** [GitHub Issues](https://github.com/aprevitali/portfolio-rebalancer/issues)
+- **GitHub:** [@aprevitali](https://github.com/aprevitali)
 
 ---
 
