@@ -1,0 +1,8 @@
+name = "prezzi"
+main = "src/index.js"
+compatibility_date = "2025-01-01"
+workers_dev = true
+
+# Per consentire altri siti oltre a *.github.io e localhost:
+# [vars]
+# ALLOWED_ORIGINS = "https://mio-dominio.it"

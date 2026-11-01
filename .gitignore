@@ -1,53 +1,9 @@
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-
-# Virtual environments
-venv/
-ENV/
-env/
+node_modules
+web/dist
+__pycache__
+*.pyc
 .venv
-
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-
-# Streamlit (SOLO secrets, NON config!)
-.streamlit/secrets.toml
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Data files (user portfolios - privacy)
-*.csv
-!example_portfolio.csv
-
-# Logs
-*.log
-
-# Testing
-.pytest_cache/
-.coverage
-htmlcov/
+web/public/pyodide
+web/public/engine
+web/public/bridge.py
+web/public/brokers.json

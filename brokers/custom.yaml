@@ -1,0 +1,9 @@
+name: Custom
+cost_basis: weighted_average
+loss_offset_scope: same_broker
+fractional_shares_default: true
+fees:
+  fixed: null
+  percent: null
+  min: null
+  max: null
